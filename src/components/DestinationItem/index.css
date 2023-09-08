@@ -1,0 +1,18 @@
+/* Write your CSS here */
+
+.each-image {
+  padding: 15px;
+  align-self: center;
+  flex-wrap: wrap;
+}
+
+.image-style {
+  height: 140px;
+  width: 200px;
+}
+
+.image-title {
+  font-size: 16px;
+  font-family: 'Roboto';
+  font-weight: 500;
+}
